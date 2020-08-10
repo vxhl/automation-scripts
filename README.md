@@ -1,3 +1,3 @@
 # automation-scripts
-👾 A repo for pushing cool automation 🤖 scripts. Push any stupidly cool script you can think of idc.
+👾 A repo for pushing cool automation 🤖 scripts. I'mma push any stupidly cool script I can think of idc.
 

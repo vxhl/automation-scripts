@@ -1,2 +1,3 @@
 # automation-scripts
-👾 A repo for pushing cool automation 🤖 scripts using web scrapping with python and many other ways that i don't know of lel.
+👾 A repo for pushing cool automation 🤖 scripts. Push any stupidly cool script you can think of idc.
+
